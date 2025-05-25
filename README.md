@@ -1,2 +1,2 @@
 # Coursera
-Repository to upload ecercices
+Repository to upload exercices from Coursera courses
